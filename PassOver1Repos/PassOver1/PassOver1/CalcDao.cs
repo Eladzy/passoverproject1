@@ -12,7 +12,6 @@ namespace PassOver1
     {
         
         static string connString = "Data Source=.;Initial Catalog=XYCALC;Integrated Security=True;"+ "MultipleActiveResultSets=True";//using MARS
-        public List<double> resultsList = new List<double>();
 
         public void GetNumbers(List<double> listX, List<double> listY)
         {
