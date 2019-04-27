@@ -1,0 +1,7 @@
+C:\Users\elad yacovski\Desktop\PassOver1Repos\PassOver1\PassOver1\bin\Debug\PassOver1.exe.config
+C:\Users\elad yacovski\Desktop\PassOver1Repos\PassOver1\PassOver1\bin\Debug\PassOver1.exe
+C:\Users\elad yacovski\Desktop\PassOver1Repos\PassOver1\PassOver1\bin\Debug\PassOver1.pdb
+C:\Users\elad yacovski\Desktop\PassOver1Repos\PassOver1\PassOver1\obj\Debug\PassOver1.csprojAssemblyReference.cache
+C:\Users\elad yacovski\Desktop\PassOver1Repos\PassOver1\PassOver1\obj\Debug\PassOver1.csproj.CoreCompileInputs.cache
+C:\Users\elad yacovski\Desktop\PassOver1Repos\PassOver1\PassOver1\obj\Debug\PassOver1.exe
+C:\Users\elad yacovski\Desktop\PassOver1Repos\PassOver1\PassOver1\obj\Debug\PassOver1.pdb

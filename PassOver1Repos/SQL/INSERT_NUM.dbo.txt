@@ -1,0 +1,13 @@
+USE [XYCALC]
+GO
+/****** Object:  StoredProcedure [dbo].[INSERT_NUM]    Script Date: 4/27/2019 7:00:12 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER procedure [dbo].[INSERT_NUM]
+@X real,
+@Y real
+as
+insert into X(X) values(@X)
+insert into Y(Y) values(@Y)

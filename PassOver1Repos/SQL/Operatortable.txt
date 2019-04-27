@@ -1,0 +1,15 @@
+USE [XYCALC]
+GO
+
+/****** Object:  Table [dbo].[Y]    Script Date: 4/27/2019 7:06:36 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Y](
+	[Y] [real] NOT NULL
+) ON [PRIMARY]
+GO
+

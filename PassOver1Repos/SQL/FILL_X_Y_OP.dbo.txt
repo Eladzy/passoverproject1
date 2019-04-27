@@ -1,0 +1,11 @@
+USE [XYCALC]
+GO
+/****** Object:  StoredProcedure [dbo].[FILL_X_Y_OP]    Script Date: 4/27/2019 6:57:39 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER procedure [dbo].[FILL_X_Y_OP]
+as
+insert into FINALE(_X,_Y,Operator)
+select X,Y,OPERATORS from X cross join Y cross join OPERATOR 
